@@ -1,1 +1,3 @@
-# GuessTheNumberJava
+Guess The Exact Number Game Play in Java (Terminal Version)
+
+This is a simple and interactive Java-based terminal game where the player tries to guess a randomly generated number between 1 and 100. The game consists of multiple rounds, with a limited number of attempts per round. After each guess, the player receives feedback indicating whether the guess is too high, too low, or correct. Points are awarded based on how quickly the player guesses the number, encouraging accuracy and efficiency. The program keeps track of the total score across all rounds and provides a fun and engaging way to practice basic programming logic, user input handling, and control flow in Java.
